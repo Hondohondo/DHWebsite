@@ -318,6 +318,8 @@ body {
 
 .navigation__item {
   margin: 1rem; }
+  .navigation__item:last-child {
+    margin-bottom: 6rem; }
   .navigation__item--nested {
     margin-left: 10rem;
     font-size: 1.6rem;
