@@ -113,6 +113,15 @@ body {
 .u-margin-bottom-small {
   margin-bottom: 1.5rem; }
 
+.u-margin-top-big {
+  margin-top: 8rem; }
+
+.u-margin-top-medium {
+  margin-top: 4rem; }
+
+.u-margin-top-small {
+  margin-top: 1.5rem; }
+
 .btn:link, .btn:visited {
   text-transform: uppercase;
   text-decoration: none;
@@ -245,6 +254,93 @@ body {
 .para_link:hover,
 .para_link:active {
   color: #ccc; }
+
+.overview-picture {
+  background-image: url(../img/overview.jpg); }
+
+.workbook-picture {
+  background-image: url(../img/workbook.jpg); }
+
+.feedback-picture {
+  background-image: url(../img/feedback.jpg); }
+
+.feature-picture {
+  background-image: url(../img/feature.jpg); }
+
+.dreams-picture {
+  background-image: url(../img/dreams.jpg); }
+
+.section-inside {
+  background-color: #fff; }
+  .section-inside-header {
+    overflow: hidden;
+    margin: 2% 7%; }
+    .section-inside-header .heading-five {
+      margin: 0 0 2rem;
+      font-size: 1.2rem;
+      font-weight: 500;
+      text-transform: uppercase; }
+    .section-inside-header .heading-one {
+      position: relative;
+      color: teal;
+      display: inline-block;
+      padding-right: 3.5rem;
+      height: 4.4rem;
+      line-height: 4.4rem;
+      font-size: 2.8rem;
+      font-weight: 800;
+      margin-bottom: 1rem;
+      font-family: Verdana, Geneva, Tahoma, sans-serif; }
+      .section-inside-header .heading-one::after {
+        content: '';
+        display: block;
+        position: absolute;
+        left: 100%;
+        top: 50%;
+        margin-top: -1px;
+        height: 2px;
+        width: 350%;
+        background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.05) 0%, rgba(0, 0, 0, 0.1) 100%); }
+  .section-inside-picture {
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover; }
+  .section-inside-content {
+    padding: 7%; }
+    .section-inside-content h1 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 2rem;
+      font-weight: 800;
+      margin-bottom: 1rem;
+      line-height: 1.5;
+      color: #777; }
+    .section-inside-content h5 {
+      font-size: 1.6rem;
+      font-weight: 500;
+      text-transform: uppercase;
+      color: midnightblue;
+      margin-bottom: 1rem; }
+    .section-inside-content h6 {
+      font-size: 1.8rem;
+      color: teal;
+      margin-bottom: 1rem; }
+    .section-inside-content p {
+      text-align: justify;
+      font-size: 1.6rem;
+      margin-bottom: 3rem; }
+    .section-inside-content .right-span {
+      text-align: right; }
+    .section-inside-content blockquote {
+      font-size: 1.6rem;
+      font-style: italic;
+      text-align: center; }
+    .section-inside-content ul {
+      font-size: 1.6rem;
+      margin-left: 4rem; }
+      .section-inside-content ul li {
+        padding-bottom: 1rem; }
+      .section-inside-content ul ol {
+        margin-left: 4rem; }
 
 .row {
   max-width: 114rem;

@@ -19,6 +19,54 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/dreams.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dreams.html",
+		"oF": 0
+		},
+	"/dreams.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dreams.html",
+		"oF": 0
+		},
+	"/features.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/features.html",
+		"oF": 0
+		},
+	"/features.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/features.html",
+		"oF": 0
+		},
+	"/feedback.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/feedback.html",
+		"oF": 0
+		},
+	"/feedback.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/feedback.html",
+		"oF": 0
+		},
 	"/footer.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -128,6 +176,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/dreams.jpg": {
+		"ft": 16384,
+		"iS": 288259,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/dreams.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/favicon.png": {
 		"ft": 32768,
 		"iS": 18740,
@@ -137,6 +196,28 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/feature.jpg": {
+		"ft": 16384,
+		"iS": 1971882,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/feedback.jpg": {
+		"ft": 16384,
+		"iS": 815000,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/feedback.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/garden.jpg": {
@@ -325,6 +406,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/overview.jpg": {
+		"ft": 16384,
+		"iS": 2184264,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/overview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/Spiral.jpg": {
 		"ft": 16384,
 		"iS": 268068,
@@ -391,6 +483,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/workbook.jpg": {
+		"ft": 16384,
+		"iS": 1586565,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/workbook.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/index copy.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -445,6 +548,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/notes",
+		"oF": 0
+		},
+	"/overview.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/overview.html",
+		"oF": 0
+		},
+	"/overview.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/overview.html",
 		"oF": 0
 		},
 	"/recent.html": {
@@ -580,6 +699,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/sass/layout/_banner.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/sass/layout/_banner.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/sass/layout/_content.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -664,6 +796,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/template.html",
+		"oF": 0
+		},
+	"/workbook.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/workbook.html",
+		"oF": 0
+		},
+	"/workbook.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/workbook.html",
 		"oF": 0
 		}
 	},
